@@ -1,0 +1,13 @@
+.resume-preview {
+    margin: 20px;
+  }
+  
+  .resume-preview h2 {
+    text-align: center;
+  }
+  
+  .resume-preview p {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
